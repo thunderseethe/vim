@@ -8,7 +8,7 @@ set backspace=indent,eol,start
 filetype plugin indent on
 syntax on
 
-colorscheme twilight256 
+colorscheme atom-dark-256 
 
 let g:netrw_liststyle=3
 
