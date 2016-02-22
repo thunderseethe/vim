@@ -13,3 +13,6 @@
 [submodule "bundle/vim-atom-dark"]
 	path = bundle/vim-atom-dark
 	url = https://github.com/gosukiwi/vim-atom-dark.git
+[submodule "bundle/twig"]
+	path = bundle/twig
+	url = https://github.com/evidens/vim-twig.git
