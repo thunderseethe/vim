@@ -10,4 +10,6 @@ syntax on
 
 colorscheme twilight256 
 
+let g:netrw_liststyle=3
+
 inoremap <S-Tab> <C-d>
